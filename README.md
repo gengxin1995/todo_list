@@ -4,7 +4,7 @@
 
 # demo
 
-http://sillydeer.com/todo_list/dist/index.js
+http://sillydeer.com/todo_list/dist/index.html
 
 ## Build Setup
 
