@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+# demo
+
+http://sillydeer.com/todo_list/dist/index.js
+
 ## Build Setup
 
 ``` bash
